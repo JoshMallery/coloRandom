@@ -6,7 +6,7 @@
 The spec for this project can be found [here](https://frontend.turing.edu/projects/module-1/colorandom.html). 
 
 ### Deploy Link
-The applicaiton has been deployed to gitHub pages, and can be accessed [here.](https://mrlandino.github.io/coloRandom/)
+The applicaiton has been deployed to gitHub pages, and can be accessed [here.](https://joshmallery.github.io/coloRandom/)
 
 ### Contributors
 * [Eli Davidson](https://github.com/elleshadow)
